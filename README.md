@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrykwenz-4&label=Profile%20views&color=0e75b6&style=flat" alt="patrykwenz-4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrykwenz-4" alt="patrykwenz-4" /></a> </p>
-
 - 🔭 I’m currently working on [Dish and spices tracker /php/react](https://github.com/PatrykWenz-4/DishAndSpices)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and C#**
+
+- 👨‍💻 All of my projects are available at [https://patrykwenz-4.github.io/portfolio/](https://patrykwenz-4.github.io/portfolio/)
+
+- 📫 How to reach me **Patryk.Wenz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/z0ttkgnu7r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/z0ttkgnu7r/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/z0ttkgnu7r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/z0ttkgnu7r/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
