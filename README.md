@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrykwenz-4&label=Profile%20views&color=0e75b6&style=flat" alt="patrykwenz-4" /> </p>
 
-- 🔭 I’m currently working on [Dish and spices tracker /php/react](https://github.com/PatrykWenz-4/DishAndSpices)
+- 🔭 I’m currently working on [Dish and spices tracker /php/react](https://github.com/PatrykWenz-4/DishAndSpices) [⚠️ still in work ⚠️]
 
-- 🌱 I’m currently learning **Java and C#**
+- 🌱 I’m currently learning **milvus vector databases and qdrant vector databases**
 
-- 👨‍💻 All of my projects are available at [https://patrykwenz-4.github.io/portfolio/](https://patrykwenz-4.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://patrykwenz-4.github.io/portfolio/](https://patrykwenz-4.github.io/portfolio/) [⚠️ still in work ⚠️]
 
 - 📫 How to reach me **Patryk.Wenz@gmail.com**
 
