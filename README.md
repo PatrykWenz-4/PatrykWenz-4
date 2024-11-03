@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **milvus vector databases and qdrant vector databases**
 
-- 👨‍💻 All of my projects are available at [https://patrykwenz-4.github.io/portfolio/](https://patrykwenz-4.github.io/portfolio/) [⚠️ still in work ⚠️]
+- 👨‍💻 All of my projects are available at [https://patrykwenz-4.github.io/portfolio/](https://patrykwenz-4.github.io/Portfolio/) [⚠️ still in work ⚠️]
 
 - 📫 How to reach me **Patryk.Wenz@gmail.com**
 
