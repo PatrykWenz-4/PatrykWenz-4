@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://www.leetcode.com/u/z0ttkgnu7r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/z0ttkgnu7r/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/patryk-wenz-37710a1a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patryk-wenz-37710a1a8" height="30" width="40" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/9fbdf811-a94e-433f-a72f-d21aa352dcd6" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_icon.svg" alt="Google Cloud" height="30" width="40" /></a>
 
 </p>
 
